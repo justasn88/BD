@@ -1,7 +1,6 @@
 # Evoliuciniai skaičiavimai ir jų taikymai
 
-## Apie projektą
-Šioje repozitorijoje pateikiami algoritmai, programinis kodas.
+Šioje repozitorijoje pateikiamas programinis kodas.
 
 ## Repozitorijos failų struktūra
 
